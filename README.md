@@ -8,7 +8,7 @@
   
 ### Connect with me:
 <div id="badges">
-  <a href="https://github.com/Atif Afridi">
+  <a href="https://github.com/AtifAfridiii">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
    <a href="https://www.instagram.com/atif.x.afridi/">
@@ -19,9 +19,9 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,cpp,linkedin,vscode,&perline=5)](https://skillicons.dev)
 
-![Atif Afridi GitHub stats](https://github-readme-stats.vercel.app/api?username=AtifAfridi&show_icons=true&theme=dark)
+![Atif Afridi GitHub stats](https://github-readme-stats.vercel.app/api?username=AtifAfridiii&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtifAfridi&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtifAfridiii&theme=dark)
 
 
 <br>

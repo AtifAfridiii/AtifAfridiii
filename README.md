@@ -14,6 +14,9 @@
    <a href="https://www.instagram.com/atif.x.afridi/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <a href="https://x.com/Atif__afridi11?t=34FN--lvvEDgj6Y0AH3QaA&s=08">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
 ### Languages and Tools:

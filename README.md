@@ -25,4 +25,4 @@
 
 
 <br>
-⭐️ From [Atif Afridi](https://github.com/Atif Afridi)
+⭐️ From [Atif Afridi](https://github.com/AtifAfridi)

@@ -27,5 +27,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtifAfridiii&theme=dark)
 
 
+![giphy](https://github.com/AtifAfridiii/AtifAfridiii/assets/152439386/2c9d2aa5-9615-43a1-902b-01c58e8c5819)
+
 <br>
 ⭐️ From [Atif Afridi](https://github.com/AtifAfridiii)

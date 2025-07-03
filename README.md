@@ -1,10 +1,10 @@
  <h1 align="center">Hi 👋, I'm Atif Afridi</h1>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
+- 🔭 I’m currently working on MERN Stack Technology
+- 🌱 I’m currently a Full Stack developer
+- 💬 Ask me anything about Flutter / MERN 
 - 📫 How to reach me: atifafridi378@gmail.com
-- ⚡ Fun fact: I'm comming to ML
+- ⚡ Fun fact: Ai will not replace your Job 😁
   
 ### Connect with me:
 <div id="badges">

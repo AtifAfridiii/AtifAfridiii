@@ -20,7 +20,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,cpp,linkedin,vscode,js,react,css,html,express,mongodb,nodejs,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,cpp,linkedin,vscode,js,react,css,html,express,mongodb,nodejs,bootstrap,nextjs,tailwind,&perline=5)](https://skillicons.dev)
 
 ![Atif Afridi GitHub stats](https://github-readme-stats.vercel.app/api?username=AtifAfridiii&show_icons=true&theme=dark)
 
